@@ -1,4 +1,4 @@
-# Bot Games - Auction Sniper Challenge
+![AuctionSniper_Header.png](https://github.com/Brandonkish1/Bot_Games-Auction_Sniper/blob/main/Images/AuctionSniper_Header.png)
 
 ## Use Case
 
