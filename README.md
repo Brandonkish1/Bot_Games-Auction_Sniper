@@ -9,7 +9,7 @@ Win an auction by entering a bid at the last possible second. The auction page h
 ## Approach
 Launch the website and enter the a bid of $10 more than the previous bid. Click the quick bid button and then capture how many seconds are remaining. I converted the seconds to milliseconds and calculated how long I wanted to wait before finalizing the bid. After delaying for the wait period click the place bid button to enter the bid.
 
-![]()
-![]()
+![AuctionSniper_Code1.png](https://github.com/Brandonkish1/Bot_Games-Auction_Sniper/blob/main/Images/AuctionSniper_Code1.png)
+![AuctionSniper_Code2.png](https://github.com/Brandonkish1/Bot_Games-Auction_Sniper/blob/main/Images/AuctionSniper_Code2.png)
 
 
